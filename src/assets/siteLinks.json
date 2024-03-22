@@ -5,11 +5,6 @@
     "link": "https://blog.ylamaze.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.guole.fun/"
-  },
-  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.ylamaze.cn/"
@@ -19,4 +14,9 @@
     "name": "站点监测",
     "link": "https://status.ylamaze.cn/"
   }
+    {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.guole.fun/"
+  },
 ]
