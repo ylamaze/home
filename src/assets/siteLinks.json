@@ -15,6 +15,11 @@
     "link": "https://music.ylamaze.cn/"
   },
   {
+    "icon": "Brain",
+    "name": "Chatgpt",
+    "link": "https://chatgpt.ylamaze.cn/"
+  },
+  {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.ylamaze.cn/"
