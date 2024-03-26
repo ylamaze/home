@@ -15,7 +15,7 @@
     "link": "https://music.ylamaze.cn/"
   },
   {
-    "icon": "Brain",
+    "icon": "Robot",
     "name": "Chatgpt",
     "link": "https://chatgpt.ylamaze.cn/"
   },
@@ -28,5 +28,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.ylamaze.cn/"
+  },
+  {
+    "icon": "BattleNet",
+    "name": "日常计划",
+    "link": "https://plan.ylamaze.cn/"
   }
 ]
