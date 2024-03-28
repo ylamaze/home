@@ -33,5 +33,10 @@
     "icon": "BattleNet",
     "name": "日常计划",
     "link": "https://plan.ylamaze.cn/"
-  }
+  },
+  {
+    "icon": "Robot",
+    "name": "Chatgpt4.0",
+    "link": "https://chatgpt4.ylamaze.cn/"
+  },
 ]
