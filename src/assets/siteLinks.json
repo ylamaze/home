@@ -2,41 +2,41 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.ylamaze.cn/"
+    "link": "https://blog.ylamaze.icu/"
   },
   {
     "icon": "Heartbeat",
     "name": "廿七",
-    "link": "https://love.ylamaze.cn/"
+    "link": "https://love.ylamaze.icu/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.ylamaze.cn/"
+    "link": "https://music.ylamaze.icu/"
   },
   {
     "icon": "Robot",
     "name": "Chatgpt",
-    "link": "https://chatgpt.ylamaze.cn/"
+    "link": "https://chatgpt.ylamaze.icu/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.ylamaze.cn/"
+    "link": "https://hot.ylamaze.icu/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.ylamaze.cn/"
+    "link": "https://status.ylamaze.icu/"
   },
   {
     "icon": "BattleNet",
     "name": "日常计划",
-    "link": "https://plan.ylamaze.cn/"
+    "link": "https://plan.ylamaze.icu/"
   },
   {
     "icon": "Robot",
     "name": "Chatgpt4.0",
-    "link": "https://chatgpt4.ylamaze.cn/"
+    "link": "https://chatgpt4.ylamaze.icu/"
   }
 ]
