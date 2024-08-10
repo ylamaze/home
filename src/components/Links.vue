@@ -73,6 +73,7 @@ const siteIcon = {
   Heartbeat,
   Robot,
   BattleNet,
+  Cat,
 };
 
 // 链接跳转
